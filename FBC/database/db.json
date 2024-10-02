@@ -1,0 +1,84 @@
+{
+    "feedback": {
+      "quality": [
+        {
+          "id": 1,
+          "tipo": "Otimo"
+        },
+        {
+          "id": 2,
+          "tipo": "Legal"
+        },
+        {
+          "id": 3,
+          "tipo": "Mediano"
+        },
+        {
+          "id": 4,
+          "tipo": "Insatisfeito"
+        }
+      ],
+      "problem": [
+        {
+          "id": 1,
+          "tipo": "Baixa Remuneração"
+        },
+        {
+          "id": 2,
+          "tipo": "Cobranças excessivas"
+        },
+        {
+          "id": 3,
+          "tipo": "Ambiente desorganizado"
+        },
+        {
+          "id": 4,
+          "tipo": "Não tenho reclamações"
+        }
+      ],
+      "growth": [
+        {
+          "id": 1,
+          "tipo": "Curso de idioma"
+        },
+        {
+          "id": 2,
+          "tipo": "Meets para interação"
+        },
+        {
+          "id": 3,
+          "tipo": "GYM Pass"
+        },
+        {
+          "id": 4,
+          "tipo": "teste1"
+        },
+        {
+          "id": 4,
+          "tipo": "teste2"
+        },
+        {
+          "id": 4,
+          "tipo": "teste3"
+        }
+      ]
+    },
+    "status": [
+      {
+        "id": 1,
+        "tipo": "Solicitado"
+      },
+      {
+        "id": 2,
+        "tipo": "Analise"
+      },
+      {
+        "id": 3,
+        "tipo": "Aceito"
+      }
+    ],
+    "requests": [
+
+        
+    ]
+  }
